@@ -3,7 +3,7 @@
 ## CLEANING DATA WITH SQL
 Cleaning data is one of the most important aspect of data analysis, and there are lots of tools you can use to do it. 
 For this project, I used MSSQL to clean up data about houses in Nashville to get it ready for further analysis. 
-You can find the Nashville Housing Data using this [link]().
+You can find the Nashville Housing Data using this [link](https://github.com/dannieRope/Data-Cleaning-SQL-PROJECT/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.csv).
 
 Here's what I did to clean up the data:
 
